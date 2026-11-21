@@ -97,3 +97,16 @@ Developed an interactive business intelligence dashboard and identified key reve
 ---
 
 **Project Category:** Data Analytics | Business Intelligence | Retail Analytics
+
+
+## Power BI Dashboard
+
+This project includes an interactive Power BI dashboard developed to analyze retail sales performance, profitability, regional trends, and customer segments.
+
+### Dashboard Screenshots
+<img width="1323" height="743" alt="Sales_Overview" src="https://github.com/user-attachments/assets/3eb47a7e-2a09-4e07-985c-75ed1d5ffba4" />
+<img width="1323" height="743" alt="Product_and_profitability" src="https://github.com/user-attachments/assets/784f7a8e-0a4b-46dd-a415-7ddb267eba60" />
+<img width="1325" height="744" alt="Customer_and_Shipping_Insights" src="https://github.com/user-attachments/assets/3e99ff78-d4bf-446b-9400-4ef21faca6df" />
+
+
+
